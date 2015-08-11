@@ -1,0 +1,2 @@
+db: db/development.db
+adapter: sqlite
